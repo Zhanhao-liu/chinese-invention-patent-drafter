@@ -1,0 +1,5 @@
+interface:
+  display_name: Chinese Invention Patent Drafter
+  short_description: Draft Chinese invention patent applications with prior-art-aware claim strategy.
+  icon: file-text
+  color: blue
